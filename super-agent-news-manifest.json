@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[nytimes.com](https://www.nytimes.com/2026/06/08/technology/ai-digital-twins-executives.html)",
+    "[time.com](https://time.com/why-ai-agents-are-the-next-great-technological-transformation/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[wearedevelopers.com](https://www.wearedevelopers.com/en/magazine/682/building-a-bento-grid-layout-with-modern-css-grid-682)",
+    "[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-flow)",
+    "[css-tricks.com](https://css-tricks.com/the-auto-flowing-powers-of-grids-dense-keyword/)"
+  ],
+  "design_plan": "Cinematic executive-focused hero, editorial typography with Satoshi/Geist stack, dense CSS Grid bento for credibility sections, GSAP-enhanced but guarded motion, calm premium palette, contrast-first CTAs. Explicit grid-auto-flow: dense for all bento layouts.",
+  "generated_at": "2026-06-29T18:46:23.939157+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A conversion-focused niche landing page positioning Super as a practical personal AI agent for executives\u2014one that actually operates computers, reuses a computer-use cache, and reduces friction across repeated executive workflows. Built with a dense bento grid, editorial design, and evidence from current reporting on AI agents and computer-use automation."
+}
